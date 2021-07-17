@@ -1,3 +1,3 @@
-Ddoser http flood inspirer de Doser.py 
+Ddoser http flood inspirer de Hulk
 
 A BUT ÉDUCATIF TOUT ATTAQUE NON LEGAL NE SERAS PAS REMIS SUR NOTRE FAUTES.
