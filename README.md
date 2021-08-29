@@ -9,7 +9,7 @@ pkg install python
 
 pkg install git 
 
-Pkg install wget 
+pkg install wget 
 
 git clone https://github.com/CableYZ/cableYZ-ddoser
 
