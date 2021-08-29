@@ -15,4 +15,4 @@ git clone https://github.com/CableYZ/cableYZ-ddoser
 
 cd CABLEYZ-DDOSER.PY
 
-python cableYZ-ddoser.py
+python CABLEYZ-DDOSER.PY
