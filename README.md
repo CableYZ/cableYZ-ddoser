@@ -13,7 +13,7 @@ pkg install wget
 
 git clone https://github.com/CableYZ/cableYZ-ddoser
 
-cd CABLEYZ-DDOSER.PY
+cd cableYZ-ddoser
 
 python CABLEYZ-DDOSER.PY     ]]]]
 
